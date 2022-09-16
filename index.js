@@ -1,6 +1,3 @@
-// document.querySelectorAll(".set")[1].addEventListener("click", function() {
-//   alert ("I got clicked!");
-// });    // this one works but angela used 'for'  loop
 
 var buttons = document.querySelectorAll("button").length;
 
